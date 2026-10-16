@@ -36,3 +36,6 @@ Thumbs.db
 
 # Installation-owned third-party shared libraries are private payloads.
 /lib/*.so*
+
+# Fork-local docs (kept locally, not published)
+fork/
